@@ -1,0 +1,10 @@
+footer {
+  background: #0f5d55;
+  width: 100%;
+  color: #fff;
+  text-align: center;
+}
+
+.social-networks span {
+  margin: .5em;
+}
